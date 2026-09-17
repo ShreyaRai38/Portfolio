@@ -419,10 +419,14 @@ h1, h2, h3, .logo, .section-title, .about-header h2, .section-top h2, .card-head
 }
 
 .about-content p {
-    font-size: 18px;
-    line-height: 1.9;
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 1.18rem;
+    line-height: 1.95;
     color: var(--color-primary);
     margin-bottom: 25px;
+    letter-spacing: 0.2px;
 }
 
 .about-tags {
